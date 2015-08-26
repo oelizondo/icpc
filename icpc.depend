@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1440477121 source:/home/oscar/Documents/C++/icpc/main.cpp
+	<iostream>
+	<string>
+
